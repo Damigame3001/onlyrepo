@@ -1,2 +1,2 @@
 # RubberDuck Dev index freshness test.
-QA_MARKER = 3
+QA_MARKER = 4
